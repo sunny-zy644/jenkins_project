@@ -1,0 +1,61 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-U9U434J",
+    "children" : [ {
+      "name" : "6476-MainThread",
+      "children" : [ {
+        "name" : "test_login.TestLogin.test_login1",
+        "uid" : "58949d0dbf428582",
+        "parentUid" : "9f8e7df3902a644cb53b3bf381f95ed0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1608806205561,
+          "stop" : 1608806205584,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login.TestLogin.test_login2",
+        "uid" : "c867df30020debde",
+        "parentUid" : "9f8e7df3902a644cb53b3bf381f95ed0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608806205585,
+          "stop" : 1608806205586,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login.TestLogin.test_login4",
+        "uid" : "44528d260233991c",
+        "parentUid" : "9f8e7df3902a644cb53b3bf381f95ed0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1608806205588,
+          "stop" : 1608806205590,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login.TestLogin.test_login3",
+        "uid" : "c49925acecc3034a",
+        "parentUid" : "9f8e7df3902a644cb53b3bf381f95ed0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608806205587,
+          "stop" : 1608806205588,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9f8e7df3902a644cb53b3bf381f95ed0"
+    } ],
+    "uid" : "253b51734679cc8564afa1e80c957959"
+  } ]
+}
